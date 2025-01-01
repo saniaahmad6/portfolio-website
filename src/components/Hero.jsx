@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hello, I am Sania </h1>
         <p>
-          I'm an final year computer engineering student at Jamia Millia Islamia, New Delhi, in pursuit of becoming a productive professional, with keen a interest in problem-solving and software development.
+          I'm an final year computer engineering student at Jamia Millia Islamia, New Delhi, in pursuit of becoming a productive professional, with a keen interest in problem-solving and software development.
         </p>
        
       </div>
