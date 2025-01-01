@@ -10,7 +10,7 @@ const userData = {
         {
             title: "Software Development Engineer Intern",
             company: "Exatorial Softwares Private Limited",
-            year: "October - November 2023", 
+            year: "August - October 2023", 
             companyLink: "https://talentsprint.com/",
             desc: "Implemented the billing extension for a SaaS platform, designing it as part of a microservices architecture and scaling it by 75% from inception. Through extensive web scraping, I extracted data that contributed to 25% of data-driven decision-making processes. Leveraging TypeScript and SDKs, I enhanced platform functionality by 15%, while utilizing Tailwind CSS and the Ant Design Framework for front-end development. This resulted in visually appealing, responsive user interfaces and a 35% improvement in user experience."
         },
