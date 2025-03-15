@@ -10,7 +10,12 @@ const Navbar = () => {
           Sania Ahmad
         </Link>
       </div>
-      <a href="/Sania_Ahmad_Resume.pdf" target="_blank" className="cta-btn">Resume</a>
+      <div className="">
+        <Link href="experience">
+          Sania Ahmad
+        </Link>
+      </div>
+      <a href="/Sania_Ahmad_Resume_.pdf" target="_blank" className="cta-btn">Resume</a>
     </div>
   )   
 }
