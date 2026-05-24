@@ -9,7 +9,8 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hello, I am Sania </h1>
         <p>
-          I'm a final year computer engineering student at Jamia Millia Islamia, New Delhi, in pursuit of becoming a productive professional, with a keen interest in problem-solving and software development.
+          I'm a Software Engineer at Intuit. <br></br>
+          In pursuit of becoming a productive and efficient professional, with a keen interest in problem-solving, system design and software development.
         </p>
        
       </div>
