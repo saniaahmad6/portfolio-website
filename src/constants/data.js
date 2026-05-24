@@ -1,9 +1,16 @@
 const userData = {
     experience: [
         {
+            title: "Software Engineer",
+            company: "Intuit India Product Development Center Private Limited (“Intuit”)",
+            year: "July 2025 - Present", 
+            companyLink: "https://www.intuit.com/in/",
+            desc: ""
+        },,
+        {
             title: "Co-op, Software Engineering Intern",
             company: "Intuit India Product Development Center Private Limited (“Intuit”)",
-            year: "January 2025 - Present", 
+            year: "January 2025 - July 2025", 
             companyLink: "https://www.intuit.com/in/",
             desc: "Designing a full-scale service that transforms error logs into actionable insights using Large Language Models. This involves developing APIs to seamlessly integrate summarization capabilities into existing monitoring systems, enhancing log analysis and decision-making."
         },
